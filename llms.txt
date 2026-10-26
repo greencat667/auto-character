@@ -1,0 +1,11 @@
+# AUTO
+
+> AUTO is an open character: a polite customer-service android (chrome skull, porcelain face plate, fixed closed-lip
+> smile, cyan ring-light eyes, hairline crack on his left cheekbone, headset mic, toothpaste-mint 1990s blazer, candy-pink
+> tie, blank name badge). The synthetic voice of PLEASE REMAIN on Slopcore Radio. Free to use, commercially or not.
+
+- [Canon and identity text](auto.md): the constants and a paste-in prompt description
+- [Backstory](backstory.md): who he is and his arc
+- [Making AUTO](making.md): references, prompts, video and lip-sync tips
+- [Use and credit](use.md): conditions, exclusions, CC BY 4.0
+- [Reference images](images/): auto-front, auto-three-quarter, auto-profile, auto-full-body, auto-amber-eyes, auto-lobby-host
